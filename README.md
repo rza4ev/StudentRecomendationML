@@ -1,6 +1,6 @@
 # StudentRecomendationML
 Predictive model for recommending courses or academic paths for students based on machine learning.
-Clearly state the goal of the project. For example:
+
 "This repository hosts a machine learning model designed to recommend courses or academic paths for students based on their past performance and interests."
 Features:
 
